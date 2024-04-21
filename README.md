@@ -13,11 +13,6 @@ This report presents the findings of the analysis conducted on customer segmenta
 The report outlines the initial setup and data understanding phases, including data import, cleaning, and preparation for analysis. Steps taken include identifying inconsistencies, handling duplicates and missing values, removing outliers, and performing feature engineering.
 
 
-![output](https://github.com/DiogoPimenta26/Hotel-Customer-Segmentation/assets/148448280/a741cdef-5246-4990-a2ed-ed1f3caeb391)
-
-
-![Continents](https://github.com/DiogoPimenta26/Hotel-Customer-Segmentation/assets/148448280/b9bbaa37-9bd7-4bcb-a47d-420df173ea97)
-
 ## Clustering Process
 The clustering process is detailed, starting with principal component analysis (PCA) for dimensionality reduction. The methodology used to determine the optimal number of clusters, assess cluster quality, and interpret the clustering results is described.
 
